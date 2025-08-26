@@ -1,6 +1,6 @@
 
 
- Daily notebook: **August 25, 2025
+ Daily notebook: August 25, 2025
 
 
  📁 Contents
@@ -23,7 +23,7 @@ pip install matplotlib numpy pandas seaborn
 
 > Detected/assumed libraries from the notebook: `matplotlib, numpy, pandas, seaborn`
 
-  🚀 How to Run
+    How to Run
 1. Clone the repo and move into it.
 2. (Optional) Place your dataset (CSV/Parquet) in a `data/` folder.
 3. Launch Jupyter and open the notebook:
