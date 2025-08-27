@@ -1,8 +1,3 @@
-
-
- Daily notebook: August 25, 2025
-
-
  📁 Contents
 - `uni variate.ipynb` — main notebook for univariate EDA
 - `README.md` — you are here
@@ -74,7 +69,6 @@ If you save figures, write them to `reports/` with meaningful names like `report
 Choose a license (e.g., MIT) and add a `LICENSE` file if you plan to share publicly.
 
 BI_Variate Analysis
-Date: August 27, 2025
 This repository contains a Jupyter Notebook (BI_Variate.ipynb) that explores bivariate analysis using Python libraries such as pandas, seaborn, numpy, and matplotlib. The notebook demonstrates how to calculate correlation and covariance, as well as how to visualize the relationships between two variables using various plots.
 
 Datasets
